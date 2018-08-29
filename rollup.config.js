@@ -5,7 +5,7 @@ export default {
   input: 'index.js',
   output: {
     name: 'vector-tile-bundle.js',
-    file: 'vector-tile-bundle.js',
+    file: 'dist/vector-tile-bundle.js',
     format: 'esm',
   },
   plugins: [
